@@ -34,7 +34,7 @@ Register number: 212224040221
 7.	Compile that file with C compiler and verify the output.
 
 # PROGRAM
-```
+```c
 %{
 #include <stdio.h>
 #include <ctype.h>
